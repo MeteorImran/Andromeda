@@ -96,5 +96,6 @@ python main.py
 
 ---
 
-## License / Lesen
-MIT — FatihMakes Industries / Meteor Group
+## Credits / Rujukan
+- **Lead Developer / Pembangun Utama:** Imran Saidi / Meteor Group
+- **Original Architecture / Seni Bina Asal:** Fatih Makes Industries
